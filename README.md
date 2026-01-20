@@ -7,4 +7,5 @@ This project is created to practice frontend validation, JavaScript string handl
 and basic security-related concepts in web development.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-**Category:** Frontend Security Mini Project
+**Category:** Frontend Security Mini ProjectMinor documentation update
+
