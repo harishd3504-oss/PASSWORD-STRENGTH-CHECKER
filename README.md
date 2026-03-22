@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+# 🔐🔑 Password Strength Checker
 
 A simple and interactive **web-based Password Strength Checker** built using **HTML, CSS, and JavaScript**.
 This application evaluates the strength of a password in real-time and helps users create secure passwords.
